@@ -1,0 +1,63 @@
+header{
+  background-color: teal;
+  width:960px; /* remember to adjust the width according to padding*/
+  height:100px
+
+}
+main{
+  background-color: Pink;
+  width: 920px;
+/* height: 100px;*/
+  height:auto; allow this container to grow depending on content, if container
+  has no content the box will collapse and not appear */
+  padding: 20px 20px 20px 20px 20px; /* top right bottom left*/
+border-width:0px 0px 10px 0px ; /* top right bottom left */
+border-color:black;
+border-style:solid;
+
+margin:0 auto; /*top and bottom,right and left */
+margin-top: -10px;/* negative numbers can be used to close gaps*/
+
+border-width:5px; /* adds border on all sides*/
+border-style: dashed;
+border-color:purple;
+
+ margin-top:0px;
+ margin-left:auto;
+ margin-bottom:0px;
+ margin-right:auto;
+}
+footer{
+  background-color:teal;
+  width:960px;
+  height:100px;
+  margin: 0 auto;
+
+}
+
+nav{
+background-color:lightblue;
+width:400px;
+margin: 0 auto;
+padding:5px;
+
+}
+
+nav ul{
+
+}
+
+nav ul li{
+list-style: none;
+display: inline block;
+margin-right: 20px;
+
+}
+nav ul li a{
+color:white;
+text-decoration:none;
+}
+
+nav ul li:hover
+
+}

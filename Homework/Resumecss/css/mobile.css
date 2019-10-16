@@ -1,0 +1,44 @@
+@import "desktop.css";
+
+header{
+  width: 380px;
+}
+
+main{
+  width:380px;
+}
+
+footer{
+  width:380px;
+
+
+nav ul li{
+  display: block;
+  text-align: center;
+}
+
+#grid1 #grid2 #grid3{
+  width:380px;
+  display:block;
+}
+
+#grid3 img{
+  width:300px;
+}
+
+<main>
+<p> Hi Welcome to my website about birds. This website is 100% dedicated to talking
+about birds and how they live in nature</p>
+
+<section id="grid1"
+<h1>About birds</h1>
+<p>birds are magnificent creatures that have evolved to be able to fly</p>
+</section>
+
+
+<section id="grid2"
+<h1>Gallery</h1>
+<section>
+
+<section id="grid3"
+<h1>
