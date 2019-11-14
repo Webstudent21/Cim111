@@ -1,0 +1,73 @@
+h1 {
+        text-align:center;
+        font-size: 18pt;
+        color: Blue;
+        text-decoration:None;
+        font-family: cursive;
+    }
+
+p{
+  color:green;
+  font-family: fantasy;
+  }
+
+ header{
+   background-color: pink;
+ }
+
+ .topnav {
+  background-color:#cfe810 ;
+  width:300px;
+  margin-left: 700px;
+  font-family:cursive;
+  font-size: 16pt;
+}
+
+  a:link{
+    text-decoration: none;
+  }
+
+  a:hover{
+    background-color: blue;
+  }
+
+
+ main{
+   background-color: yellow;
+   }
+
+  #grid1{
+  width: 800px;
+  height: auto;
+  margin: 20px auto;
+  display: grid;
+  grid-template-rows: 400px;
+  grid-template-columns: 400px 400px;
+  grid-column-gap: 20px;
+  background-color: yellow;
+}
+
+
+
+#grid1 img{
+width: 400px;
+}
+
+#grid3{
+  padding-left: 200px;
+}
+
+#grid3 img{
+width: 400px;
+height:250px;
+}
+
+#grid4 img{
+  width:500px;
+  height:300px;
+  margin-left:550px;
+}
+
+body{
+  background-color:yellow;
+}

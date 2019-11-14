@@ -1,0 +1,19 @@
+@import "desktop.css";
+
+header{
+  width: 400px;
+}
+
+main{
+  width: 4000px;
+}
+
+footer{
+  width: 4000px;
+}
+
+#grid1{
+  width: 380px;
+  display: block;
+  margin: 0 auto;
+}
