@@ -1,0 +1,113 @@
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+li{
+  text-align:left;
+  font-family: monospace;
+  font-size:25px;
+  color:black;
+}
+
+h1{
+  font-size:60px;
+  color:black;
+  text-align:center;
+}
+
+h2{
+  text-align:center;
+  font-size: 40px;
+    color:black;
+}
+h3{
+  text-align: center;
+  font-size: 30px;
+}
+p{
+  text-align:center;
+  font-family: monospace;
+  font-size:25px;
+  color:black;
+  }
+
+.topnav {
+ text-color:black;
+ width:600px;
+ margin-left:450px;
+ font-family:cursive;
+ font-size: 18pt;
+ text-align:center;
+ max-width: 100%;
+  height:auto;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+ }
+
+a:hover{
+  background-color:blue;
+}
+a{
+  color:black;
+}
+a:link{
+  text-decoration: none;
+}
+
+a{
+  text-align:center;
+}
+body{
+  background-color:#dbf0ff;
+}
+#grid1 img{
+  border-radius: 8px;
+  max-width: 100%;
+   height:auto;
+  }
+
+#grid2 img{
+  border-radius: 8px;
+  max-width: 100%;
+   height:auto;
+}
+#grid3 img{
+  border-radius: 8px;
+  max-width: 100%;
+   height:auto;
+}
+#grid4 img{
+  border-radius: 8px;
+  max-width: 100%;
+   height:auto;
+ }
+ #grid5 img{
+   border-radius: 8px;
+   max-width: 100%;
+    height:auto;
+   }
+
+
+@media only screen and (max-width:600px){
+p{
+  color:grey;
+  font-family:inherit;
+   }
+li{
+  color:grey;
+  font-family:inherit;
+}
+{
+  text-align: center;
+}
+
+}
+@media only screen and (min-width:700px){
+  p{
+    font-size:1.5rem;
+  }
+}
